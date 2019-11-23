@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120260899127",
+    "firebase_url": "https://smartkitchen-256018.firebaseio.com",
+    "project_id": "smartkitchen-256018",
+    "storage_bucket": "smartkitchen-256018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120260899127:android:bba66136b7237222edeab2",
+        "android_client_info": {
+          "package_name": "com.example.skmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120260899127-dmnfjuctso7q9122aqr6s632egep48id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skmobile",
+            "certificate_hash": "5174d4fa50c07a70a877cffa83de4bc311123828"
+          }
+        },
+        {
+          "client_id": "120260899127-4odjvt9lg1uev6grba5901unfgtucd3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOG90M-IMCAKyqDpt9cjk09-HXuu_1wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120260899127-4odjvt9lg1uev6grba5901unfgtucd3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
